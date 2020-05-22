@@ -1,4 +1,4 @@
-# escapism-1
+# escapism
 formal graduation project 2020 
 -Team members:
 -	Karim Mohamed(Leader)
